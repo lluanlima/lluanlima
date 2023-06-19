@@ -12,7 +12,7 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=bitbugado-criticas&theme=dark)](https://github.com/lluanlima/bitbugado-criticas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=projeto-portifolio&theme=dark)](https://github.com/lluanlima/projeto-portifolio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluanlima&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluanlima&layout=compact)
 
 ## Contato
 
