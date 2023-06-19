@@ -4,7 +4,7 @@
 
 Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por tecnologias e a cultura pop. Estou começando na área, e estou sempre em busca de aprender coisas novas.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanlima&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-reame-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanlima&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-reame-stats)
 
 ## Projetos
 
@@ -21,6 +21,7 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 Se você gostaria de entrar em contato comigo, você pode me encontrar em:
 
 [<img src='https://img.shields.io/badge/LinkdIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://](https://www.linkedin.com/in/luan-lima-1a46958b)
+
 - E-mail: luandelima1@gmail.com
 - Instagram: https://www.instagram.com/lluanlima/
 
