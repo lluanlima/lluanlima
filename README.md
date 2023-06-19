@@ -20,8 +20,9 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 
 Se você gostaria de entrar em contato comigo, você pode me encontrar em:
 
+[<img src='https://img.shields.io/badge/LinkdIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://](https://www.linkedin.com/in/luan-lima-1a46958b)
+[<img src='https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://](https://www.linkedin.com/in/luan-lima-1a46958b)
 - E-mail: luandelima1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/luan-lima-1a46958b
 - Instagram: https://www.instagram.com/lluanlima/
 
 ## Obrigado pela visita!
