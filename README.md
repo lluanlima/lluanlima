@@ -12,6 +12,10 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=bitbugado-criticas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=projeto-portifolio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+##Linguagens Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluanlima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato
 
 Se você gostaria de entrar em contato comigo, você pode me encontrar em:
