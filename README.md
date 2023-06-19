@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá! 🖖🏻
 
-<!--
-**lluanlima/lluanlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por tecnologias e a cultura pop. Estou começando na área, e estou sempre em busca de aprender coisas novas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-reame-stats)
+
+## Contato
+
+Se você gostaria de entrar em contato comigo, você pode me encontrar em:
+
+- E-mail: luandelima1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/luan-lima-1a46958b
+- Instagram: https://www.instagram.com/lluanlima/
+
+## Obrigado pela visita!
+
+Obrigado por conferir o meu perfil do GitHub! Fique à vontade para explorar meus projetos e entrar em contato comigo. Mal posso esperar para colaborar e aprender com a comunidade do GitHub.
+
