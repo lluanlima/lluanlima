@@ -6,6 +6,10 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluanlima&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-reame-stats)
 
+## Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=clone_tiktok&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato
 
 Se você gostaria de entrar em contato comigo, você pode me encontrar em:
