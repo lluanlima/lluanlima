@@ -16,6 +16,7 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+---------------------------
 
 ## ⚙Projetos
 
@@ -24,6 +25,7 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=bitbugado-criticas&theme=dark)](https://github.com/lluanlima/bitbugado-criticas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lluanlima&repo=projeto-portifolio&theme=dark)](https://github.com/lluanlima/projeto-portifolio)
 
+---------------------------
 
 ## 📞Contato
 
