@@ -33,7 +33,7 @@ Meu nome é Luan Lima, e sou um(a) entusiasta de programação apaixonado(a) por
 Se você gostaria de entrar em contato comigo, você pode me encontrar em:
 
 <div> 
-   <a href = "mailto:luandelima1@gmail.com"></a><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "luandelima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/luan-lima-1a46958b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    ![Snake animation](https://github.com/chaltech/chaltech/blob/output/github-contribution-grid-snake.svg)
